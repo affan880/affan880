@@ -24,7 +24,7 @@ console.log("MacBook-Pro:~ affan880$");
 const websiteUrl = 'affan.codes';
 
 const me = {
-  title: 'JavaScript Developer',
+  title: 'Full Stack Developer',
   contactInfo: {
     email: 'syedaffan880@gmail.com',
     linkedIn: 'https://www.linkedin.com/in/syed-affan/',
