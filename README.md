@@ -1,5 +1,5 @@
 <pre>
-  // Initializing JavaScript...
+// Initializing JavaScript...
 console.log("Initializing JavaScript...");
 
 // JavaScript is ready to use.
