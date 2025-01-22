@@ -11,8 +11,8 @@ const emailLink = `<a href="mailto:${email}">${email}</a>`;
 console.log(`To contact me, please send me a message to ${emailLink}.`);
 
 // For more details, please visit <a href="https://affan.codes">https://affan.codes</a> or <a href="https://portfolio.affan.codes">https://portfolio.affan.codes</a>.
-const portfolioUrl = 'https://affan.codes';
-const portfoliov2Url = 'https://portfolio.affan.codes';
+const portfolioUrl = 'https://affan.io';
+const portfoliov2Url = 'https://portfolio.affan.io';
 console.log(`For more details, please visit ${portfolioUrl} or ${portfoliov2Url}.`);
 
 // MacBook-Pro:~ affan880$
@@ -29,7 +29,7 @@ const me = {
     email: 'syedaffan880@gmail.com',
     linkedIn: 'https://www.linkedin.com/in/syed-affan/',
     github: 'https://github.com/affan880',
-    portfolio: 'https://affan.codes',
+    portfolio: 'https://affan.io',
     website: `https://${websiteUrl}`,
     resume: `https://ik.imagekit.io/affan/Syed_Affan_CV.pdf`,
   },
