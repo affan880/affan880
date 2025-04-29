@@ -10,10 +10,9 @@ const email = 'syedaffan880@gmail.com';
 const emailLink = `<a href="mailto:${email}">${email}</a>`;
 console.log(`To contact me, please send me a message to ${emailLink}.`);
 
-// For more details, please visit <a href="https://affan.codes">https://affan.codes</a> or <a href="https://portfolio.affan.codes">https://portfolio.affan.codes</a>.
+// For more details, please visit <a href="https://affan.io">https://affan.io</a>.
 const portfolioUrl = 'https://affan.io';
-const portfoliov2Url = 'https://portfolio.affan.io';
-console.log(`For more details, please visit ${portfolioUrl} or ${portfoliov2Url}.`);
+console.log(`For more details, please visit ${portfolioUrl}`);
 
 // MacBook-Pro:~ affan880$
 console.log("MacBook-Pro:~ affan880$");
