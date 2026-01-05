@@ -20,7 +20,7 @@ Welcome! I’m **Syed Affan**, a software engineer who loves building fast, eleg
 * 📧 Email: [syedaffan880@gmail.com](mailto:syedaffan880@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/syed-affan](https://www.linkedin.com/in/syed-affan/)
 * 🧑‍💻 GitHub: [github.com/affan880](https://github.com/affan880)
-* 🌐 Website: [affan.io](https://affan.io)
+* 🌐 Website: [syedaffan.xyz](https://syedaffan.xyz)
 * 📄 [View Resume (PDF)](https://ik.imagekit.io/invincible/Resume/Affan___resume.pdf)
 
 ---
