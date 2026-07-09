@@ -25,8 +25,6 @@ I build with large language models and ship the full stack around them: agentic 
 ### What I'm working on
 
 - **Reefnbid** — agentic developer workflows and full-stack marketplace features (dispute management, messaging, loyalty)
-- **ReapReviews** — building a review-management SaaS in TypeScript and Next.js
-
 ### Featured projects
 
 **[DuckPilot](https://duckpilot.netlify.app/)** — natural-language-to-SQL over your CSV/Parquet files, entirely in the browser. Validates every result against the source data.
