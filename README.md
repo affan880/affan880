@@ -27,14 +27,17 @@ I build with large language models and ship the full stack around them: agentic 
 - **Reefnbid** — agentic developer workflows and full-stack marketplace features (dispute management, messaging, loyalty)
 ### Featured projects
 
-**[DuckPilot](https://duckpilot.netlify.app/)** — natural-language-to-SQL over your CSV/Parquet files, entirely in the browser. Validates every result against the source data.
-`React` · `Next.js` · `DuckDB-WASM` · `LLM APIs`
+**[ClearPath](https://clearpath-trade-compliance.netlify.app/)** — verified trade-compliance agent. Answers whether a shipment can legally cross the border and which carriers will take it, with every ruling cited and sealed behind a deterministic policy gate no LLM can override. Three models reason (Llama-3.3-70B planner, Qwen2.5-72B classifier, DeepSeek-V3 verifier); four pure Python engines compute and enforce, including live sanctions screening against the U.S. government's Consolidated Screening List and a tamper-evident hash-chained audit log.
+`Next.js` · `FastAPI` · `Clerk Auth` · `Neon Postgres` · `Nebius` · [Code](https://github.com/affan880/clearpath-trade-compliance-ai-agent)
 
-**[Plexar](https://plexar.xyz/)** — AI inbox and calendar assistant that summarizes Gmail and surfaces what actually matters.
-`React Native` · `Cohere / Claude` · `Google APIs`
+**[DuckPilot](https://duckpilot.netlify.app/)** — local-first natural-language-to-SQL over your CSV, Excel, JSON, and Parquet files. Runs entirely in the browser on DuckDB-Wasm, with an optional FastAPI backend (Gemini API) for more complex query generation.
+`React` · `DuckDB-Wasm` · `FastAPI` · `Gemini API` · [Code](https://github.com/affan880/DuckPilot)
 
-**[Secure Dependency Guard](https://github.com/affan880/secure-dependency-guard)** — Python CLI that flags supply-chain hygiene risks in dependency files (typosquats, unpinned versions, wildcards) and gates CI on severity.
-`Python` · `CLI` · `GitHub Actions`
+**[AI Shield](https://aishield.netlify.app/)** — AI-native code security scanner. Uses ReAct-style agents and AST/dataflow analysis to find real vulnerabilities beyond regex pattern-matching, and proposes concrete, ready-to-apply fixes.
+`ReAct Agents` · `AST/Dataflow Analysis` · `Semantic Reasoning`
+
+**[Academic-Ally](https://play.google.com/store/apps/details?id=com.academically)** — cross-platform academic app for Osmania University and JNTU students, combining a resource-sharing hub (notes, syllabi, past question papers) with a suite of AI study tools: a study planner, an adversarial examiner, "Snap a Doubt," a PYQ analyzer, and an AI chatbot. Live on Google Play, 4.5★, 500+ downloads.
+`Flutter` · `Dart` · `Firebase` · `LLM Integration`
 
 ### Tech stack
 
